@@ -4,7 +4,7 @@
 - Khalishah Fiddina
 - Muhammad Ilham Hakiqi
 - Tifani Amalina
--
+
 # Data Preparation
 
 Data Preparation is the process of gathering, combining, structuring, and organizing data so it can be used in business intelligence (BI), analytics, and data visualization applications. The components of data preparation include data preprocessing, profiling, cleansing, validation, and transformation.
